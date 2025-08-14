@@ -18,6 +18,7 @@ E ao decorrer deste ano vamos nos aprofundar mais em matérias antigas, como por
 * Progamação Front - End;
 * Teste de Software;
 * Progamação em Dispositivos Mobile.
+* Internet das Coisas (IoT)
 
 
 ## 🛠️ Habilidades
@@ -28,9 +29,6 @@ E ao decorrer deste ano vamos nos aprofundar mais em matérias antigas, como por
 * Leal;
 * Espírito de Liderança.
 
-## 📌 Projetos Pessoais
-Existem três projetos muito importantes para mim dentro da área de DEV, e você pode acessar eles pelos repósitorios nomeados "Projeto LIMA", "Projeto De Física" e "SaborGourmet", respectivamente. Eles demonstram de forma clara a minha evolução como desenvolvedora. 
-
 ## 📞 Contato
 Em caso de interesse ou dúvidas sobre algum projeto você pode me contatar nos links abaixo:
 
@@ -40,4 +38,4 @@ Em caso de interesse ou dúvidas sobre algum projeto você pode me contatar nos 
 </div>
 
 ## ⭕ Considerações Finais
-Para finalizar, em meus projetos futuros pretendo evoluir como desenvolvedora e ousar mais em meus projetos, como por exemplo entregando projetos com mais funcionalidades e também espero trabalhar profissionalmente na área, principalmente na área do Front - End e/ou Banco de Dados.
+Para finalizar, em meus projetos futuros pretendo evoluir como desenvolvedora e ousar mais em meus projetos, como por exemplo entregando projetos com mais funcionalidades e também espero trabalhar profissionalmente na área, principalmente na área do Back-End.
